@@ -1,6 +1,6 @@
 /*
-copyright: Bernd Zeimetz <bernd@bzed.de> (C) 2018
-license: Creative Commons Attribution-ShareAlike 4.0 International
+Copyright © 2018 Bernd Zeimetz <bernd@bzed.de>
+License: Creative Commons Attribution-ShareAlike 4.0 International
 */
 
 /*
